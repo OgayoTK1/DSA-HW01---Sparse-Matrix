@@ -1,5 +1,5 @@
-Sparse Matrix Operations
-Project Overview
+**Sparse Matrix Operations**
+**Project Overview**
 This project implements a sparse matrix data structure and operations in Python. It provides an efficient way to handle large matrices that primarily contain zero values by only storing non-zero elements.
 
 Features
@@ -126,7 +126,4 @@ cols=3
 (2, 2, 7)
 License
 This project is available for academic and educational purposes.
-
-Acknowledgments
-This project was completed as part of the Data Structures and Algorithms course assignment.
 
