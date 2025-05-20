@@ -1,7 +1,7 @@
-**Sparse Matrix Operations Project**
+**Sparse Matrix Operations Project:**
 Welcome to the Sparse Matrix Operations Project! After cloning the repository, you will find the main project files in the root directory, and example data files within the examples subdirectory.
 
-**📌 Project Overview**
+**📌 Project Overview:**
 This project implements an efficient sparse matrix data structure in Python. It prioritizes memory efficiency by only storing non-zero elements, making it ideal for large matrices where most elements are zero.
 
 **Features**
